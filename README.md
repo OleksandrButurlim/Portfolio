@@ -1,2 +1,1 @@
-Check link below
-https://oleksandrbuturlim.github.io/Portfolio/
+Check out this link => https://oleksandrbuturlim.github.io/Portfolio/
